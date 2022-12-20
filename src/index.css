@@ -17,20 +17,7 @@ code {
 }
 
 body {
-  background-image: url("https://wallpapers-hub.art/wallpaper-images/86941.jpg");
-  /* background-image: url("https://wallpaperaccess.com/full/3073410.jpg"); */
-  /* background-image: url("https://cutewallpaper.org/22/animated-forest-wallpapers/anime-wallpaper-1920x1080-forest.png"); */
-  /* background-image: url("https://cutewallpaper.org/21/animation-nature-wallpaper/Windows-10-Wallpaper-Free-Download-4k-Backgrounds-and-Themes.jpg"); */
-  /* background-image: url("https://wallpaperaccess.com/full/203564.jpg"); */
-  /* background-image: url("https://i.pinimg.com/736x/90/a0/4b/90a04b17416e754ce8c54e1adb510177.jpg"); */
-  /* background: rgb(2, 0, 36); */
-  /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,14,121,1) 0%, rgba(0,212,255,1) 100%); */
-  /* background-image: url("https://wallpapercave.com/wp/wp5294337.jpg"); */
-  /* background-image: url("https://wallpaperaccess.com/full/467630.jpg"); */
-  /* background-image: url("https://wallpaperaccess.com/full/467630.jpg"); */
-  /* background-image: url("https://w0.peakpx.com/wallpaper/970/148/HD-wallpaper-rain-drops-on-a-leaf-spring-leaf-leaves-cool-close-up-grasses-macro-water-drops-nature-rain-field.jpg"); */
-  /* background-image: url("https://c.tenor.com/TCuck5iIIH4AAAAC/rain-anime-rain.gif"); */
-  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-r2j5S_iVn8ZfQlZr63R2RBAyzYQAGSkDg&usqp=CAU"); */
+  background-image: url("../public/bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
