@@ -15,5 +15,5 @@ In the search box enter the name of the city or country to get the real time wea
 
 ## 
 
-
-![React Weather App](https://github.com/prdp99/weather-app-react/blob/main/public/weather-app.png)
+![Preview](https://weather-prdp99.vercel.app/) 
+![React-Weather-App](https://github.com/prdp99/weather-app-react/blob/main/public/weather-app.png)
