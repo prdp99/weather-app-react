@@ -14,4 +14,4 @@ In the search box enter the name of the city or country to get the real time wea
 + UV-index
 
 ## 
-![React Weather App](https://github.com/prdp99/weather-app-react/public/weather-app.png)
+![React Weather App](https://github.com/prdp99/weather-app-react/blob/main/public/weather-app.png)
