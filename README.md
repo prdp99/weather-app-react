@@ -12,3 +12,6 @@ In the search box enter the name of the city or country to get the real time wea
 - Wind speed
 - Humidity
 + UV-index
+
+## 
+![React Weather App](https://github.com/prdp99/weather-app-react/blob/master/public/weather-app/png)
